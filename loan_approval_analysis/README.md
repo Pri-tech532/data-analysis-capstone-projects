@@ -54,16 +54,15 @@ The objective of this project is to perform exploratory data analysis (EDA) on l
 loan-approval-analysis/
 │
 ├── loan_approval_analysis.ipynb
+├── loan_approval_analysis.pdf
 ├── Loan_Approval.csv
-├── README.md
-└── images/
+└── README.md
 ```
 
-- 📓 **loan_approval_analysis.ipynb** → Complete analysis workflow.
-- 📄 **README.md** → Project documentation.
-- 📊 **Loan_Approval.csv** → Dataset used for analysis.
-- 🖼️ **images/** → Charts and visual outputs.
-
+* 📓 **loan_approval_analysis.ipynb** → Complete notebook containing data cleaning, exploratory analysis, and visualizations.
+* 📄 **loan_approval_analysis.pdf** → PDF version of the notebook for easy viewing and sharing.
+* 📊 **Loan_Approval.csv** → Dataset used for the analysis.
+* 📘 **README.md** → Project documentation describing the methodology, insights, and tools used.
 ---
 
 ## 🔍 Key Areas of Investigation
@@ -103,5 +102,9 @@ Understanding the characteristics associated with loan approval can help financi
 This project demonstrates the use of Python-based data analysis tools to transform raw loan application data into meaningful insights through exploration, visualization, and analytical reasoning.
 
 ---
+## 🚀 Learning Outcome
 
+This project was developed as part of my Data Analytics learning journey using a dataset provided during my training. It provided valuable hands-on experience in working with real-world structured data, performing exploratory analysis, creating visualizations, and developing the ability to translate raw information into meaningful insights through a systematic and problem-solving approach.
+
+---
 > "Turning financial data into actionable insights through analysis and visualization." 📊
