@@ -94,7 +94,7 @@ zomato-restaurant-success-analysis/
 │
 ├── README.md
 ├── assignment-question.pdf
-├── Indian-Restaurants.csv
+├── Indian-Restaurants.zip
 └── zomato_analysis_eda.pdf
 ```
 
