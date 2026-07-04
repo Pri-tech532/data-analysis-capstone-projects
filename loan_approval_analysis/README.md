@@ -52,7 +52,7 @@ The objective of this project is to perform exploratory data analysis (EDA) on l
 
 ```bash
 loan-approval-analysis/
-│
+├── Loan Approval question(pdf)
 ├── loan_approval_analysis.ipynb
 ├── loan_approval_analysis.pdf
 ├── Loan_Approval.csv
